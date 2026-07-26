@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm HUSAIN HANOON 👋
 
-<!--
-**hhanoon0/hhanoon0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer based in Bahrain, blending software engineering with a background in UX/UI design and multimedia production.
 
-Here are some ideas to get you started:
+### 👨‍💻 What I'm Up To
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Studied full-stack development at **Reboot Coding Institution**.
+* 💻 Building robust backend systems and responsive mobile applications.
+* 🎨 Designing user-centric interfaces from wireframes to deployment.
+
+### 🛠️ Tech Stack
+
+* **Languages:** Rust, Go, JavaScript, TypeScript, Dart
+* **Design & Tools:** Figma, Illustrator, Photoshop
