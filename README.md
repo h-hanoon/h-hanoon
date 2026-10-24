@@ -11,4 +11,4 @@ I'm a full-stack developer based in Bahrain, blending software engineering with 
 ### 🛠️ Tech Stack
 
 * **Languages:** Rust, Go, JavaScript, TypeScript, Dart
-* **Design & Tools:** Figma, Illustrator, Photoshop
+* **Design & Tools:** Figma, Affinity
